@@ -1,0 +1,19 @@
+title: Developer VPS Notes
+description: Practical VPS hosting guides for developers, WordPress beginners, and Linux users.
+url: "https://9sswn2xq7c-glitch.github.io"
+baseurl: "/geogrowth"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: Developer VPS Notes
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Developer VPS Notes
